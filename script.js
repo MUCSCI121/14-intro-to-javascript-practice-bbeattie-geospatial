@@ -4,4 +4,3 @@ function metersToFeet(meters) {
 }
 
 console.log(metersToFeet(1) + " ft");
-console.log();
